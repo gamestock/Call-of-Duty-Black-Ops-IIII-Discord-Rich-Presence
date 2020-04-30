@@ -19,3 +19,8 @@ Il suffit de télécharger Téléchargez le [Call of Duty: Black Ops IIII Discor
 [process-exists](https://www.npmjs.com/package/process-exists) crée par [Sindre Sorhus](https://github.com/sindresorhus)<br>
 [discord-rich-presence](https://www.npmjs.com/package/discord-rich-presence) crée par [Gus Caplan](https://github.com/devsnek)<br>
 d'avoir crée ces modules !
+
+## Screenshot
+<div align="center">
+<img src="https://i.imgur.com/jr6TkXG.png" width="950" alt="Call of Duty: Black Ops IIII Discord Rich Presence" />
+</div>
