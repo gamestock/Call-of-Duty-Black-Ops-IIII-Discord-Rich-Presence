@@ -7,7 +7,7 @@ module.exports = {
     drpsmallImageKey: `discord`, // Nom de l'image téléchargée pour la petite illustration de profil (smallImageKey) | Exemple: drpsmallImageKey: `discord`,
     drpsmallImageText: `Discord Rich Presence`, // L'info-bulle pour la petite illustration de profil (smallImageText) | Exemple: drpsmallImageText: `Discord Rich Presence`,
     drpstartTimestamp: new Date(), // Affiche le temps écoulé (new Date() = activés | undefined = désactivés) | Exemple: drpstartTimestamp: new Date(),
-    gameprocess: `Template.exe`, // l'exécutable du jeu | Exemple: gameprocess: `ShooterGame.exe`,
+    gameprocess: `BlackOps4.exe`, // l'exécutable du jeu | Exemple: gameprocess: `ShooterGame.exe`,
     gamename: `Call of Duty: Black Ops IIII`, // Le nom du jeu | Exemple: gamename: `ARK: Survival Evolved`,
     scriptprocess: `cmd.exe`, // NE PAS MODIFIER ! | l'exécutable de l'actionneur du Script discordrpc.js | Exemple: scriptprocess: `cmd.exe`,
 };
