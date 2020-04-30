@@ -1,0 +1,13 @@
+{
+  "name": "template-discord-rich-presence",
+  "version": "1.0.0",
+  "description": "Exemple pour Discord Rich Presence",
+  "main": "discordrpc.js",
+  "author": "Alex Animate Mp4#2361",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8",
+    "process-exists": "^4.0.0",
+    "respawn": "^2.6.0"
+  }
+}
