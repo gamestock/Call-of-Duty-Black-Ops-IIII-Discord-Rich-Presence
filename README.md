@@ -10,9 +10,9 @@
 
 Call of Duty: Black Ops IIII Discord Rich Presence est un exemple de [Discord Rich Presence](https://github.com/AlexAnimateMP4/Discord-Rich-Presence) qui permet de crée vos propres Discord Rich Presence pour vos jeux !
 
-**Comment installer ARK: Survival Evolved Discord Rich Presence ?**
+**Comment installer Call of Duty: Black Ops IIII Discord Rich Presence ?**
 
-Il suffit de télécharger Téléchargez le [Call of Duty: Black Ops IIII Discord Rich Presence](https://github.com/AlexAnimateMP4/Discord-Rich-Presence/archive/Template-Discord-Rich-Presence.zip), configurez [configDiscordrpc.js](https://github.com/AlexAnimateMP4/Discord-Rich-Presence/blob/Template-Discord-Rich-Presence/configDiscordrpc.js) pour votre jeu, lancez [Launchrpc.bat](https://github.com/AlexAnimateMP4/Discord-Rich-Presence/blob/Template-Discord-Rich-Presence/Launchrpc.bat) et profitez !
+Il suffit de télécharger Téléchargez le [Call of Duty: Black Ops IIII Discord Rich Presence](https://github.com/AlexAnimateMP4/Call-of-Duty-Black-Ops-IIII-Discord-Rich-Presence/archive/master.zip), configurez [configDiscordrpc.js](https://github.com/AlexAnimateMP4/Call-of-Duty-Black-Ops-IIII-Discord-Rich-Presence/blob/master/configDiscordrpc.js) pour votre jeu, lancez [Launchrpc.bat](https://github.com/AlexAnimateMP4/Call-of-Duty-Black-Ops-IIII-Discord-Rich-Presence/blob/master/Launchrpc.bat) et profitez !
 
 ## Je remercie beaucoup:
 [respawn](https://www.npmjs.com/package/respawn) crée par [Mathias Buus](https://github.com/mafintosh)<br>
